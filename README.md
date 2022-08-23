@@ -8,5 +8,7 @@ matplotlib
 json
 ```
 
-Since the Translink data is too large, it can be download [here](https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-data).
+Since the Translink data is too large, it can be downloaded [here](https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-data).
 `stops.txt` and `stop_times.txt` should be added to the `data` folder.
+
+![](Figure_1.png)
